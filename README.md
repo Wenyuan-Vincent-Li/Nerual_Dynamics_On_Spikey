@@ -85,4 +85,4 @@ V<sub>th</sub> = −60.5 mV in the case of when no noise is present.
 correlation parameter C<sub>sync</sub> (detailed in the paper), a brain phase 
 diagram was constructed similar to that in the above Figure.
 
-<img src="/Plots/Phase_Diagram_2.png" width="500">
+<img src="/Plots/Phase_Diagram_2.png" width="300">
