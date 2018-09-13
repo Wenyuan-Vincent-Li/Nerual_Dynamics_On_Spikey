@@ -32,6 +32,7 @@ following Figure.
 <p align="center"> 
     <img src="/Plots/Settings.png" width="400">
 </p>
+
 ## Results
 
 ### Emulation Results from the Neuromorphic Chip
@@ -44,7 +45,9 @@ behavior presents in the seizure state/C-phase with a high activity correlation.
 low activity correlation. (c) None or only a few firing activities are present 
 in the coma state/T-phase with extremely low activity correlation.
 
-<img src="/Plots/Emulation_results.png" width="500">
+<p align="center"> 
+    <img src="/Plots/Emulation_results.png" width="500">
+</p>
 
 ### Comparison with Brain Slice Recordings.
 
@@ -62,7 +65,9 @@ we observe the oscillatory behavior from both membrane potential recordings
 (see the bottom row in panel a) and find that the power spectra are both 1/f<sup>α</sup>
 superimposed by peaks (see the bottom row in panel b).
 
-<img src="/Plots/Comparison.png" width="500">
+<p align="center"> 
+    <img src="/Plots/Comparison.png" width="500">
+</p>
 
 ### Phase Diagram
 
@@ -80,10 +85,14 @@ in both membrane potential recordings and their corresponding power spectra is s
 even though there is only a very small change from V<sub>th</sub> = −60.6 mV to 
 V<sub>th</sub> = −60.5 mV in the case of when no noise is present.
 
-<img src="/Plots/Phase_Diagram_1.png" width="500">
+<p align="center"> 
+    <img src="/Plots/Phase_Diagram_1.png" width="500">
+</p>
 
 * Following shows An alternative way to construct the phase diagram. Based on the 
 correlation parameter C<sub>sync</sub> (detailed in the paper), a brain phase 
 diagram was constructed similar to that in the above Figure.
 
-<img src="/Plots/Phase_Diagram_2.png" width="300">
+<p align="center"> 
+    <img src="/Plots/Phase_Diagram_2.png" width="300">
+</p>
