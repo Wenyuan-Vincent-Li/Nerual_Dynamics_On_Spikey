@@ -29,7 +29,9 @@ the Spikey chip. Two types of recordings were extracted from the emulation, the 
 potential V<sub>m</sub> of a randomly chosen neuron and the “spike train” data as shown in the
 following Figure.
 
-<img src="/Plots/Settings.png" width="500">
+<div style="text-align:center">
+    <img src="/Plots/Settings.png" width="400">
+</div>
 
 ## Results
 
